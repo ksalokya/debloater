@@ -59,3 +59,10 @@ No.
 - Type Command
   - adb shell 
   - cmd package install-existing <package_name> to get back disabled name.
+
+## :warning: Don't disable/uninstall these packages. It will result in soft brick. :warning:
+-com.miui.securitycenter
+-com.miui.securityadd
+-com.xiaomi.finddevice
+
+### :loudspeaker: These scripts are tested on Poco X2/Redmi K30 4G(phoenixin/phoenix) running on MIUI 12.1.3.0 Global.
