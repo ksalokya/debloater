@@ -57,4 +57,5 @@ No.
 - Open CMD.
 - Navigate to path of Platform Tools.
 - Type Command
-  - adb shell cmd package install-existing com.android.thememanager <package_name> to get back disabled name.
+  - adb shell 
+  - cmd package install-existing <package_name> to get back disabled name.
