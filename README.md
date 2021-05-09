@@ -29,7 +29,7 @@ That's it.Enjoy Debloated MIUI :thumbsup:
 
 ### FAQ & Troubleshooting
 
-#### Do I need an unlocked bootloader or root access to use the script?
+##### Do I need an unlocked bootloader or root access to use the script?
 
 No.
 
