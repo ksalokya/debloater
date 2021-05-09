@@ -11,8 +11,8 @@
 
 ## Instructions
 
-
-1. Enable Developer option.
-   Settings > About Device and tap 'MIUI version' seven times to enable              developer options
-2. Enable USB debugging.
+### Enable USB Debugging
+1. Enable Developer option - 
+   Settings > About Device and tap 'MIUI version' seven times to enable developer options
+2. Enable USB debugging - 
    Settings > Additional settings > Developer option and enable USB debugging.
