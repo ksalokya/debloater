@@ -68,4 +68,5 @@ adb shell cmd package install-existing <package_name> to get back uninstalled ap
 -com.xiaomi.finddevice
 
 ### :loudspeaker: These scripts are tested on Poco X2/Redmi K30 4G(phoenixin/phoenix) running on MIUI 12.1.3.0 Global.
-### I am not responsible for bricked devices, thermonuclear war or the current economic crisis caused by you following these scripts. :)
+
+### :boom: I am not responsible for bricked devices, thermonuclear war or the current economic crisis caused by you following these scripts. YOU are choosing to make these modificiations and if you point your finger at me for messing up your device, I will LMAO at you. :boom:
