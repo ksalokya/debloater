@@ -1,5 +1,5 @@
 # Debloat Xiaomi - Linux & Windows Script
-:fire: Script to Debloat Mi Apps ***No ROOT/Unlocked Bootloader Required!*** :fire:
+:fire: Script to Debloat Mi Apps - ***No ROOT/Unlocked Bootloader Required!*** :fire:
 
 ## Scripts
 * **debloat_uninstall.bat** - Uninstaller for Windows.
@@ -11,7 +11,7 @@
 1. USB Debugging Enabled Device.
 2. A PC/Laptop running on Windows/Mac/Linux.
 
-## Instructions
+# Instructions
 
 ### Enable USB Debugging
 1. Enable Developer option - 
@@ -62,7 +62,9 @@ No.
 
 ## :warning: Don't disable/uninstall these packages. It will result in soft brick. :warning:
 -com.miui.securitycenter
+
 -com.miui.securityadd
+
 -com.xiaomi.finddevice
 
 ### :loudspeaker: These scripts are tested on Poco X2/Redmi K30 4G(phoenixin/phoenix) running on MIUI 12.1.3.0 Global.
