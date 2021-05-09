@@ -30,6 +30,18 @@ That's it.Enjoy Debloated MIUI :thumbsup:
 ### FAQ & Troubleshooting
 
 ##### Do I need an unlocked bootloader or root access to use the script?
-
 No.
 
+##### What apps are safe to uninstall?
+All applications in the list are safe to uninstall. You might lose access to some services but the device will keep working just fine.
+
+##### What's the difference between uninstalling and disabling?
+Apps you disable may come back anytime and you can also re-enable them in the Settings, while uninstalled apps will only return if you reinstall them (using ADB or an APK) or factory reset the device. There's no difference when it comes to their impact on the system.
+
+##### Do uninstalled system apps affect OTA updates?
+No.
+
+##### Do uninstalled system apps come back with updates?
+No.
+
+##### If I want disabled
