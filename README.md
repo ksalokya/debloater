@@ -17,13 +17,13 @@
 2. Enable USB debugging - 
    Settings > Additional settings > Developer option and enable USB debugging.
 
-### Setting up ADB & Running Script 
+### Setting up ADB & Running Script - Windows 
 1. Download Platform Tools from this [link](https://developer.android.com/studio/releases/platform-tools) and extract in C drive
 OR Follow this for tutorial [link](https://www.xda-developers.com/quickly-install-adb/).
 2. Clone this repo and place all the files in platform tools, folder.
 3. Open CMD.
 4. Naviagte to Platform Tools folder.
-5. Run desired script by typing script name. Ex - debloat_uninstall.sh
+5. Run desired script by typing script name. Ex - debloat_uninstall.bat
 
 That's it.Enjoy Debloated MIUI :thumbsup:
 
