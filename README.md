@@ -49,7 +49,7 @@ No.
 ##### If I want disabled app back, what I have to do?
 - Open CMD.
 - Navigate to path of Platform Tools.
-- Type/Copyn->
+- Type/Copy ->
 ```javascript
    adb shell pm enable <package_name> to get back disabled app.
 ```
@@ -69,4 +69,4 @@ adb shell cmd package install-existing <package_name> to get back uninstalled ap
 
 -com.xiaomi.finddevice
 
-### :loudspeaker: These scripts are tested on Poco X2/Redmi K30 4G(phoenixin/phoenix) running on MIUI 12.1.3.0 Global.
+### :loudspeaker: These scripts are tested on Poco X2/Redmi K30 4G(phoenixin/phoenix) running on MIUI 12.1.3.0 Global & no one is reponsible if you ran into any issues.
