@@ -49,16 +49,18 @@ No.
 ##### If I want disabled app back, what I have to do?
 - Open CMD.
 - Navigate to path of Platform Tools.
-- Type Command
-  - adb shell
-  - pm enable <package_name> to get back disabled name.
+- Type/Copyn->
+```javascript
+   adb shell pm enable <package_name> to get back disabled app.
+```
 
 ##### If I want uninstalled app back, what I have to do?
 - Open CMD.
 - Navigate to path of Platform Tools.
-- Type Command
-  - adb shell 
-  - cmd package install-existing <package_name> to get back disabled name.
+- Type/Copy -> 
+```javascript
+adb shell cmd package install-existing <package_name> to get back uninstalled app.
+```
 
 ## :warning: Don't disable/uninstall these packages. It will result in soft brick. :warning:
 -com.miui.securitycenter
