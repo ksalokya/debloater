@@ -4,6 +4,8 @@
 ## Scripts
 * **debloat_uninstall.bat** - Uninstaller for Windows.
 * **debloat_disable.bat** - Disabler for Windows.
+* **debloat_uninstall.sh** - Uninstaller for Linux/Mac.
+* **debloat_disable.sh** - Disabler for Linux/Mac.
 
 ## Requirements ##
 1. USB Debugging Enabled Device.
@@ -44,4 +46,4 @@ No.
 ##### Do uninstalled system apps come back with updates?
 No.
 
-##### If I want disabled
+##### If I want disabled 
