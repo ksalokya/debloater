@@ -46,4 +46,15 @@ No.
 ##### Do uninstalled system apps come back with updates?
 No.
 
-##### If I want disabled 
+##### If I want disabled app back, what I have to do?
+- Open CMD.
+- Navigate to path of Platform Tools.
+- Type Command
+  - adb shell
+  - pm enable <package_name> to get back disabled name.
+
+##### If I want uninstalled app back, what I have to do?
+- Open CMD.
+- Navigate to path of Platform Tools.
+- Type Command
+  - adb shell cmd package install-existing com.android.thememanager <package_name> to get back disabled name.
