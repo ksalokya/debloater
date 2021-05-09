@@ -2,10 +2,8 @@
 :fire: Script to Debloat Mi Apps - ***No ROOT/Unlocked Bootloader Required!*** :fire:
 
 ## Scripts
-* **debloat_uninstall.bat** - Uninstaller for Windows.
-* **debloat_disable.bat** - Disabler for Windows.
-* **debloat_uninstall.sh** - Uninstaller for Linux/Mac.
-* **debloat_disable.sh** - Disabler for Linux/Mac.
+* **debloater_for_windows.bat** - Uninstaller/Disabler for Windows.
+* Linux Script will be added soon.
 
 ## Requirements ##
 1. USB Debugging Enabled Device.
