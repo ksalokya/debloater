@@ -1,2 +1,2 @@
 ## Debloat Xiaomi - Linux & Windows Script
-:sparkles: script to debloat Mi Apps ***No ROOT or Unlocked Bootloader Required!*** :sparkles:
+:sparkles: Script to debloat Mi Apps ***No ROOT/Unlocked Bootloader Required!*** :sparkles:
