@@ -3,7 +3,7 @@
 
 ## Scripts
 * **debloater_for_windows.bat** - Uninstaller/Disabler for Windows.
-* Linux Script will be added soon.
+* **debloater_for_linux**       - Uninstaller/Disabler for Linux.
 
 ## Requirements ##
 1. USB Debugging Enabled Device.
@@ -18,12 +18,12 @@
    Settings > Additional settings > Developer option and enable USB debugging.
 
 ### Setting up ADB & Running Script - Windows 
-1. Download Platform Tools from this [link](https://developer.android.com/studio/releases/platform-tools) and extract in C drive
-OR Follow this for tutorial [link](https://www.xda-developers.com/quickly-install-adb/).
-2. Clone this repo and place all the files in platform tools, folder.
-3. Open CMD.
-4. Naviagte to Platform Tools folder.
-5. Run desired script by typing script name. Ex - debloat_uninstall.bat
+1. Download Platform Tools from this [link](https://developer.android.com/studio/releases/platform-tools) and extract zip
+OR Follow this for tutorial [link](https://www.xda-developers.com/install-adb-windows-macos-linux/).
+2. Clone this repo and place all the files in platform tools' folder.
+3. Open CMD/Terminal.
+4. Naviagte to Platform Tools' folder.
+5. Run desired script by typing script name. Ex - debloater_for_windows.bat or ./debloater_for_linux.sh
 
 That's it.Enjoy Debloated MIUI :thumbsup:
 
@@ -45,7 +45,7 @@ No.
 No.
 
 ##### If I want disabled app back, what I have to do?
-- Open CMD.
+- Open CMD/Terminal.
 - Navigate to path of Platform Tools.
 - Type/Copy ->
 ```javascript
@@ -53,7 +53,7 @@ No.
 ```
 
 ##### If I want uninstalled app back, what I have to do?
-- Open CMD.
+- Open CMD/Terminal.
 - Navigate to path of Platform Tools.
 - Type/Copy -> 
 ```javascript
