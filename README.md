@@ -3,7 +3,7 @@
 
 ## Scripts
 * **debloater_for_windows.bat** - Uninstaller/Disabler for Windows.
-* **debloater_for_linux**       - Uninstaller/Disabler for Linux.
+* **debloater_for_linux.sh**       - Uninstaller/Disabler for Linux.
 
 ## Requirements ##
 1. USB Debugging Enabled Device.
