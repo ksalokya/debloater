@@ -129,8 +129,6 @@ unins()
 ./adb shell pm uninstall -k --user 0 com.mi.global.mimover
 ./adb shell pm uninstall -k --user 0 com.mi.global.bbs
 ./adb shell pm uninstall -k --user 0 com.xiaomi.smarthome
-./adb shell pm uninstall -k --user 0 com.android.updater
-./adb shell pm uninstall -k --user 0 com.xiaomi.discover
 }
 
 dis()
@@ -219,8 +217,6 @@ dis()
 ./adb shell pm disable-user com.mi.global.mimover
 ./adb shell pm disable-user com.mi.global.bbs
 ./adb shell pm disable-user com.xiaomi.smarthome
-./adb shell pm disable-user com.android.updater
-./adb shell pm disable-user com.xiaomi.discover
 }
 
 debloat()
