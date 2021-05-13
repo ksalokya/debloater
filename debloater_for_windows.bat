@@ -133,6 +133,13 @@ adb shell pm uninstall -k --user 0 com.miui.backup
 adb shell pm uninstall -k --user 0 cn.wps.xiaomi.abroad.lite
 adb shell pm uninstall -k --user 0 com.xiaomi.account
 adb shell pm uninstall -k --user 0 com.eterno.shortvideos
+adb shell pm uninstall -k --user 0 com.android.calendar
+adb shell pm uninstall -k --user 0 com.miui.touchassistant
+adb shell pm uninstall -k --user 0 com.mi.global.mimover
+adb shell pm uninstall -k --user 0 com.mi.global.bbs
+adb shell pm uninstall -k --user 0 com.xiaomi.smarthome
+adb shell pm uninstall -k --user 0 com.android.updater
+adb shell pm uninstall -k --user 0 com.xiaomi.discover
 :DIS
 ECHO.
 ECHO Starting Disabler.......
@@ -215,4 +222,11 @@ adb shell pm disable-user com.miui.backup
 adb shell pm disable-user cn.wps.xiaomi.abroad.lite
 adb shell pm disable-user com.xiaomi.account
 adb shell pm disable-user com.eterno.shortvideos
+adb shell pm disable-user com.android.calendar
+adb shell pm disable-user com.miui.touchassistant
+adb shell pm disable-user com.mi.global.mimover
+adb shell pm disable-user com.mi.global.bbs
+adb shell pm disable-user com.xiaomi.smarthome
+adb shell pm disable-user com.android.updater
+adb shell pm disable-user com.xiaomi.discover
 PAUSE
