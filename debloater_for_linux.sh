@@ -81,7 +81,6 @@ unins()
 ./adb shell pm uninstall -k --user 0 com.mi.android.globalFileexplorer
 ./adb shell pm uninstall -k --user 0 com.mipay.wallet.in
 ./adb shell pm uninstall -k --user 0 com.miui.mishare.connectivity
-./adb shell pm uninstall -k --user 0 com.miui.miwallpaper
 ./adb shell pm uninstall -k --user 0 com.xiaomi.mi_connect_service
 ./adb shell pm uninstall -k --user 0 com.xiaomi.miplay_client
 ./adb shell pm uninstall -k --user 0 com.miui.daemon
@@ -169,7 +168,6 @@ dis()
 ./adb shell pm disable-user com.mi.android.globalFileexplorer
 ./adb shell pm disable-user com.mipay.wallet.in
 ./adb shell pm disable-user com.miui.mishare.connectivity
-./adb shell pm disable-user com.miui.miwallpaper
 ./adb shell pm disable-user com.xiaomi.mi_connect_service
 ./adb shell pm disable-user com.xiaomi.miplay_client
 ./adb shell pm disable-user com.miui.daemon
