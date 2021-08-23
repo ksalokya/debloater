@@ -52,6 +52,7 @@ unins()
 ./adb shell pm uninstall -k --user 0 com.xiaomi.calendar
 ./adb shell pm uninstall -k --user 0 com.bsp.catchlog
 ./adb shell pm uninstall -k --user 0 com.miui.cleanmaster
+./adb shell pm uninstall -k --user 0 com.miui.cleaner
 ./adb shell pm uninstall -k --user 0 com.android.deskclock
 ./adb shell pm uninstall -k --user 0 com.miui.compass
 ./adb shell pm uninstall -k --user 0 com.android.providers.downloads.ui
@@ -139,6 +140,7 @@ dis()
 ./adb shell pm disable-user com.xiaomi.calendar
 ./adb shell pm disable-user com.bsp.catchlog
 ./adb shell pm disable-user com.miui.cleanmaster
+./adb shell pm disable-user com.miui.cleaner
 ./adb shell pm disable-user com.android.deskclock
 ./adb shell pm disable-user com.miui.compass
 ./adb shell pm disable-user com.android.providers.downloads.ui
