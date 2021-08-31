@@ -46,6 +46,7 @@ brief()
 unins()
 {
 ./adb shell pm uninstall -k --user 0 com.miui.analytics
+./adb shell pm uninstall -k --user 0 com.google.android.projection.gearhead
 ./adb shell pm uninstall -k --user 0 com.mi.android.globalminusscreen
 ./adb shell pm uninstall -k --user 0 in.amazon.mShop.android.shopping
 ./adb shell pm uninstall -k --user 0 com.miui.calculator
@@ -134,6 +135,7 @@ unins()
 dis()
 {
 ./adb shell pm disable-user com.miui.analytics
+./adb shell pm disable-user com.google.android.projection.gearhead
 ./adb shell pm disable-user com.mi.android.globalminusscreen
 ./adb shell pm disable-user in.amazon.mShop.android.shopping
 ./adb shell pm disable-user com.miui.calculator
