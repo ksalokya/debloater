@@ -1,4 +1,4 @@
-# Debloat Xiaomi - Linux & Windows Script
+# Debloat Andriod Apps - Linux & Windows Script
 :fire: Script to Debloat Mi Apps - ***No ROOT/Unlocked Bootloader Required!*** :fire:
 
 ## Scripts
