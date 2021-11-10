@@ -1,5 +1,5 @@
 # Debloat Andriod Apps - Linux & Windows Script
-:fire: Script to Debloat Mi Apps - ***No ROOT/Unlocked Bootloader Required!*** :fire:
+:fire: Script to Debloat Android Apps - ***No ROOT/Unlocked Bootloader Required!*** :fire:
 
 ## Scripts
 * **debloater_for_windows.bat** - Uninstaller/Disabler for Windows.
