@@ -1,4 +1,4 @@
-# Debloat Andriod Apps - Linux & Windows Script
+# Debloat Android Apps - Linux & Windows Script
 :fire: Script to Debloat Android Apps - ***No ROOT/Unlocked Bootloader Required!*** :fire:
 
 ## Scripts
