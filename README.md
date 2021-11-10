@@ -70,5 +70,6 @@ adb shell cmd package install-existing <package_name> to get back uninstalled ap
 ### :loudspeaker: These scripts are tested on below devices:
 - Poco X2/Redmi K30 4G(phoenixin/phoenix) running on MIUI 12.5.1.0 Global.
 - Poco X3 NFC(karna) running on MIUI Global 12.5.3.0
+- Redmi Note 5 Pro
 
 ### :boom: I am not responsible for bricked devices, thermonuclear war or the current economic crisis caused by you following these scripts. YOU are choosing to make these modificiations and if you point your finger at me for messing up your device, I will LMAO at you. :boom:
