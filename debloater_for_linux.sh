@@ -25,7 +25,6 @@ brief()
 {
     printf "\n\nMake sure you have read the FAQ in te following link before running this script:"
     printf "\nhttps://github.com/ksalokya/xiaomi_debloater_script/blob/main/README.md"
-
 }
 
 unins()
