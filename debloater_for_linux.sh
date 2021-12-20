@@ -236,8 +236,8 @@ debloat()
 
 wait_for_device()
 {
-    printf "\n\nPress Ctrl-C to stop the script"
-    printf "\nWaiting for device"
+    printf "\n\nPress Ctrl-C to stop the script\n"
+    printf "\nWaiting for device\n"
     (./adb wait-for-device >/dev/null) &
 }
 
