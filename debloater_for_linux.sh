@@ -239,7 +239,6 @@ wait_for_device()
     printf "\n\nPress Ctrl-C to stop the script"
     printf "\nWaiting for device"
     (./adb wait-for-device >/dev/null) &
-    spinner
 }
 
 ascii_intro
