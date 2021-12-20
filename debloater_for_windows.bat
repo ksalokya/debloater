@@ -34,7 +34,7 @@ ECHO ============================
 :: Section 2: Checking connected device
 ECHO Allow ADB permission on Phone
 adb devices
-timeout 10
+timeout 20
 
 :: Section 3: DEBLOATING
 ECHO.
