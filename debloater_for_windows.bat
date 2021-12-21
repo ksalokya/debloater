@@ -43,7 +43,7 @@ ECHO PRESS 1 or 2 to select your task, or 3 to EXIT.
 ECHO ...............................................
 ECHO.
 ECHO 1 - Run Unistaller
-ECHO 2 - Run Debloater
+ECHO 2 - Run Disabler
 ECHO 3 - EXIT
 ECHO.
 SET /P M=Type 1, 2, 3, or 4 then press ENTER:
